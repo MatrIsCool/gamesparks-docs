@@ -3,15 +3,15 @@ nav_sort: 1
 src: /Getting Started/Creating a Game/README.md
 ---
 
-# Creating a Game
+# 创建一个游戏
 
 The GameSparks platform delivers a broad range of capabilities, making it a little difficult to know where to start! This section walks you through some of the initial key tasks required to start working with the platform and create a game, helping you to understand how the various pieces fit together.
 
-## Registering an Account
+## 注册一个账号
 
 Before getting started as a new user, you'll need to create an account on the Developer Portal. To register, click **+ Register** on the login screen or at top-right from here. You are taken to the [Register](https://portal.gamesparks.net/register.htm) screen, where you can enter your account details.
 
-## Creating the Game
+## 创建游戏
 ![l](img/CreatingGame/4.png)
 
  When registered, you can login:
